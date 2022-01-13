@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rishabh
+- 👋 Hi, I’m Rishabh
 - 👀 I’m interested in Web Dev
 - 🌱 I’m currently learning C++, Java, HTML, CSS, JS, NodeJs, Express, Mongodb and the list is endless...
 - 💞️ I’m looking to collaborate on the projects related to Web Dev.
